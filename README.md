@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/Pr1vetMedved/Pr1vetMedved/main/assets/giphy.gif)]
+![Header](https://raw.githubusercontent.com/Pr1vetMedved/Pr1vetMedved/main/assets/giphy.gif)
 
 About me
 
@@ -9,4 +9,6 @@ About me
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=F9D54D)
 ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=Linux&logoColor=FFFFFF)
 
-Follow me
+### Follow me
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/lunrrr)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/pr1vet_medved/)
