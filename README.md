@@ -1,5 +1,8 @@
-<center>![Header](https://99px.ru/sstorage/56/2014/01/image_562301141215305823451.gif)</center>
-
+<center>
+	<p>
+![Header](https://99px.ru/sstorage/56/2014/01/image_562301141215305823451.gif)
+	</p>
+</center>
 About me
 
 ### Languages and Tools 
