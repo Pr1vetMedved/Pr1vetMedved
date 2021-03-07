@@ -2,7 +2,7 @@
 	<img src="https://99px.ru/sstorage/56/2014/01/image_562301141215305823451.gif">
 </p>
 
-<h2>Hi, i'm begginer python developer 👨‍💻</h2>
+<h2>Hi, i'm begginer python developer 🤘</h2>
 
 ### Languages and Tools 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
