@@ -1,6 +1,6 @@
-<!-- <p align="center">
+<p align="center">
 	<img src="/b699955de768f17b1a2f45f942829731b.gif">
-</p> -->
+</p>
 
 <h2>Hi, i'm begginer python developer 🤘</h2>
 
