@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fru%2F9TLY&psig=AOvVaw0th_3uZTPEJX1qUd-ZlN2p&ust=1623265432685000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICvoZHdiPECFQAAAAAdAAAAABBN">
+	<img src="https://i.artfile.me/wallpaper/29-03-2015/1920x1080/anime-unknown--drugoe-sobaka-ochki-naush-919072.jpg">
 </p>
 
 <h2>Hi, i'm begginer python developer 🤘</h2>
