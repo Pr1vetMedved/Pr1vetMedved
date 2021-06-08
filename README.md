@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://i.gifer.com/9TLY.gif">
+	<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fru%2F9TLY&psig=AOvVaw0th_3uZTPEJX1qUd-ZlN2p&ust=1623265432685000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICvoZHdiPECFQAAAAAdAAAAABBN">
 </p>
 
 <h2>Hi, i'm begginer python developer 🤘</h2>
