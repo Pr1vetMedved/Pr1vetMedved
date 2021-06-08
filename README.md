@@ -1,5 +1,5 @@
 <!-- <p align="center">
-	<img src="https://github.com/Pr1vetMedved/Pr1vetMedved/blob/main/b699955de768f17b1a2f45f942829731b.gif">
+	<img src="/b699955de768f17b1a2f45f942829731b.gif">
 </p> -->
 
 <h2>Hi, i'm begginer python developer 🤘</h2>
