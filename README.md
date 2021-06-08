@@ -15,7 +15,7 @@
 ![bootstrap](https://img.shields.io/badge/Sass-563D7C?style=for-the-badge&logo=sass&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![photoshop](https://img.shields.io/badge/photoshop-092E20?style=for-the-badge&logo=photoshop&logoColor=white)
+![photoshop](https://img.shields.io/badge/photoshop-14354C?style=for-the-badge&logo=photoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-0769AD?style=for-the-badge&logo=figma&logoColor=white)
 
 
