@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://99px.ru/sstorage/56/2014/01/image_562301141215305823451.gif">
+	<img src="https://i.gifer.com/9TLY.gif">
 </p>
 
 <h2>Hi, i'm begginer python developer 🤘</h2>
@@ -14,7 +14,7 @@
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![sass](https://img.shields.io/badge/Sass-563D7C?style=for-the-badge&logo=sass&logoColor=white)
+![sass](https://img.shields.io/badge/Sass-1572B6?style=for-the-badge&logo=sass3&logoColor=white)
 
 ### Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/IQQ0D)
