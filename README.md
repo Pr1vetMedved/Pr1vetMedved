@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
 	<img src="https://i.artfile.me/wallpaper/29-03-2015/1920x1080/anime-unknown--drugoe-sobaka-ochki-naush-919072.jpg">
-</p>
+</p> -->
 
 <h2>Hi, i'm begginer python developer 🤘</h2>
 
@@ -20,3 +20,4 @@
 
 ### Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/IQQ0D)
+<!-- [![Linkedin](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/IQQ0D) -->
