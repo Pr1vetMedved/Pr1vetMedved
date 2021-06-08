@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="/b699955de768f17b1a2f45f94282973b.png">
+	<img src="/">
 </p>
 
 <h2>Hi, i'm begginer python developer 🤘</h2>
@@ -17,8 +17,6 @@
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![adobe-photoshop](https://img.shields.io/badge/adobe_photoshop-14354C?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-0769AD?style=for-the-badge&logo=figma&logoColor=white)
-
-
 
 ### 📢 Contact
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/IQQ0D)
