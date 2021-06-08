@@ -18,7 +18,7 @@
 ![photoshop](https://img.shields.io/badge/photoshop-092E20?style=for-the-badge&logo=photoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-0769AD?style=for-the-badge&logo=figma&logoColor=white)
 
-<i class="fa fa-github" aria-hidden="true"></i>
+
 
 ### Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/IQQ0D)
