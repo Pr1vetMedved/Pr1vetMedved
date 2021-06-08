@@ -1,5 +1,5 @@
 <!-- <p align="center">
-	<img src="https://i.artfile.me/wallpaper/29-03-2015/1920x1080/anime-unknown--drugoe-sobaka-ochki-naush-919072.jpg">
+	<img src="https://github.com/Pr1vetMedved/Pr1vetMedved/blob/main/b699955de768f17b1a2f45f942829731b.gif">
 </p> -->
 
 <h2>Hi, i'm begginer python developer 🤘</h2>
