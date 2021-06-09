@@ -10,7 +10,7 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14354C?style=for-the-badge&logo=postgreSQL&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=F9D54D)
+![JavaScript](https://img.shields.io/badge/JavaScript-E34F26?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=Linux&logoColor=FFFFFF)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
