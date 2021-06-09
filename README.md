@@ -23,4 +23,4 @@
 
 ### 📢 Contact
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/IQQ0D)
-[![linkedin](https://www.linkedin.com/in/tema-medved-a6aa43204/?originalSubdomain=ru)
+[![linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=27A0D9)](https://www.linkedin.com/in/tema-medved-a6aa43204/?originalSubdomain=ru)
