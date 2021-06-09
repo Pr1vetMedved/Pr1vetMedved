@@ -19,3 +19,5 @@
 ### 📢 Contact
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/IQQ0D)
 [![linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=27A0D9)](https://linkedin.com/in/Pr1vetMedved)
+
+<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="ru_RU" data-type="vertical" data-theme="dark" data-vanity="tema-medved-a6aa43204"><a class="LI-simple-link" href='https://ru.linkedin.com/in/tema-medved-a6aa43204?trk=profile-badge'>Tema Medved</a></div>
