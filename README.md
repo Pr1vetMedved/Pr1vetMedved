@@ -1,8 +1,9 @@
-<p align="center">
+<center> 
+<p>
 	<img src="/bg.png">
 </p>
-
-<h2>Hi, i'm begginer python developer 🤘</h2>
+<h2> Hi, i'm begginer python developer 🤘  </h2>
+</center>
 
  ### 👨‍💻 Skills
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -18,6 +19,8 @@
 ![adobe-photoshop](https://img.shields.io/badge/adobe_photoshop-14354C?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-0769AD?style=for-the-badge&logo=figma&logoColor=white)
 
+<br>
+
 ### 📢 Contact
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/IQQ0D)
-<!-- [![Linkedin](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/IQQ0D) -->
+[![Linkedin](Tema Medved | LinkedIn)
