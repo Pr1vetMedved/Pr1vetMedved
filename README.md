@@ -1,5 +1,5 @@
 <p><img src="/bg.png"></p>
-<h2> Hi, i'm begginer python developer 🤘  </h2>
+<h2> I'm python web developer 🤘  </h2>
 
  ### 👨‍💻 Skills
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
