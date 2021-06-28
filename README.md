@@ -1,9 +1,8 @@
 <p><img src="/bg.png"></p>
-<h2> I'm python web developer 🤘  </h2>
+<h2> I'm  web developer 🤘  </h2>
 
  ### 👨‍💻 Skills
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14354C?style=for-the-badge&logo=postgreSQL&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-E34F26?style=for-the-badge&logo=JavaScript&logoColor=white)
