@@ -11,9 +11,11 @@
 ![Php](https://img.shields.io/badge/Php-563D7C?style=for-the-badge&logo=php&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=Linux&logoColor=FFFFFF)
+
 ![Figma](https://img.shields.io/badge/Laravel-0769AD?style=for-the-badge&logo=laravel&logoColor=white)
 ![adobe-photoshop](https://img.shields.io/badge/adobe_photoshop-14354C?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-0769AD?style=for-the-badge&logo=figma&logoColor=white)
+
+
 
 ### 📢 Contact
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/t3ma_medved)
