@@ -2,7 +2,8 @@
 <h2> I'm  web developer 🤘  </h2>
 
  ### 👨‍💻 Skills
-
+![Php](https://img.shields.io/badge/Php-563D7C?style=for-the-badge&logo=php&logoColor=white)
+![Figma](https://img.shields.io/badge/Laravel-0769AD?style=for-the-badge&logo=laravel&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14354C?style=for-the-badge&logo=postgreSQL&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-E34F26?style=for-the-badge&logo=JavaScript&logoColor=white)
