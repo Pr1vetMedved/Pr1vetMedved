@@ -15,6 +15,7 @@
 ![Figma](https://img.shields.io/badge/Laravel-0769AD?style=for-the-badge&logo=laravel&logoColor=white)
 ![adobe-photoshop](https://img.shields.io/badge/adobe_photoshop-14354C?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-00000F?style=for-the-badge&logo=vim&logoColor=white)
+![Figma](https://img.shields.io/badge/Docker-0769AD?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 📢 Contact
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/t3ma_medved)
